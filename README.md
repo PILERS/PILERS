@@ -145,6 +145,3 @@ employee-attrition-analysis/
 - Historical data may not capture all organizational changes
 
 
----
-
-**Note**: This project is for educational and analytical purposes. Always consult with HR professionals and legal counsel when implementing employee management strategies.
